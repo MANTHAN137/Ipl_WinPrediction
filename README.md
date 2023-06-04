@@ -15,12 +15,11 @@ A machine learning project to find out the win probability of the chasing team i
 
 
 
-<!-- # Website hosted on render successfully!:- https://mihirc0111-ipl-predictor-mihir-app-8s1ct4.streamlit.app/
- -->
+# Website hosted on render successfully!:- https://mihirc0111-ipl-predictor-mihir-app-8s1ct4.streamlit.app/
+
 # Dataset link:- https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set?select=deliveries.csv
 
 ### Continued development
 I would like to learn futher advance techniques which will help me create a beautiful UI for this website.
 
 
-# Ipl_WinPrediction
