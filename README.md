@@ -1,3 +1,8 @@
+# Machine Learning Team Project 
+Members
+Manthan Dhole(201080020)
+Mihir Chavan (201080021)
+
 # Ipl-win-probability-predictor
 A machine learning project to find out the win probability of the chasing team in an IPL match. Made specially for 2023 IPL season teams using kaggle dataset from 2008-2019. This is made as a part of ML project of my college. 
 
